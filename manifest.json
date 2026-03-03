@@ -1,15 +1,20 @@
 {
   "name": "TC703 Sand Valley 2026",
   "short_name": "TC703",
-  "description": "Sand Valley golf trip companion app",
-  "start_url": ".",
-  "scope": ".",
+  "start_url": "/SAND-VALLEY/",
   "display": "standalone",
-  "background_color": "#1a3a20",
-  "theme_color": "#1a3a20",
-  "orientation": "portrait",
+  "background_color": "#0f1e14",
+  "theme_color": "#c9a227",
   "icons": [
-    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    {
+      "src": "/SAND-VALLEY/sand_valley_pic.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/SAND-VALLEY/sand_valley_pic.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
